@@ -8,9 +8,8 @@
 ## Social Networks 📧
 
 <div> 
-  <a href="https://www.youtube.com/channel/UCTr_0vCdzQrg1EdE5iaG-ww" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/amir.times/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/AmirTimes" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">  </a> 
+  <a href="https://www.youtube.com/@Amir_Times" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/p838z7nde4" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">  </a> 
   </a>
 
 
@@ -18,7 +17,7 @@
 
 - 💎 I am a content producer and I hope to make the best videos.
 - 😈 I teach about Discord.
-- 📙 You can see my website. [Website](https://amirtimes.com/)
+- 📙 You can see my website. [Website](https://amirali.co/)
 
 #
 <p align=center>
